@@ -1,4 +1,4 @@
-# calculo_combustivel
+# Cálculo combustível
 
 App em Flutter para calcular a escolha 
 entre combustível álcool ou gasolina 
